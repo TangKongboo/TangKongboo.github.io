@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+}
+.font-h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.font-p{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px ;
+}
+.box{
+    border-radius: 20px;
+    width: 99%;
+    height: auto;
+    background-color: rgb(168, 163, 163);
+}
+.img-wheels{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.btn{
+    width: 90%;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.btn-2{
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(197, 191, 191);
+    color: black;
+    padding: 10px 40px;
+    transition: ease-in-out 0.5s;
+}
+.btn-2:hover{
+    background-color: black;
+    color: white;
+}
+.dropdown-menu{
+    border: none;
+}
+
+.dropdown-item{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    width: 20%;
+    padding: 0px 0px;
+}
+.dropdown-item:hover{
+    padding: 0px 5px;
+    background-color: gray;
+}
+.bg-navbar{
+    background-color: #343a40;
+}
+/* Models box */
+.models-box-border{
+    border-radius: 20px;
+}
+.models-box{
+    width: 100%;
+    height: auto;
+}
+.img-model{
+    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.btn-models{
+    border: none;
+    padding: 0px 15px 3px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    transition: all 0.8s;
+}
+.btn-models:hover{
+    background-color: rgb(171, 171, 171);
+    border: none;
+    border-top-left-radius: 600px;
+    border-bottom-right-radius: 600px;
+}
+.lambo-link{
+    color: black;
+    text-decoration: none;
+}
+/* BMW */
+.b{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400px;
+    font-size: 70px;
+    color: #81c4ff;
+}
+.m{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400px;
+    font-size: 70px;
+    color: #16588e;
+}
+.w{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400px;
+    font-size: 70px;
+    color: #e7222e;
+}
+.bmw-model{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400px;
+    border-radius: 1000px;
+}
+.icon-text{
+    font-size: 20px;
+}
